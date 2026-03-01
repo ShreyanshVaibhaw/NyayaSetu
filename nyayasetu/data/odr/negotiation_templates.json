@@ -1,0 +1,41 @@
+{
+  "initial_demand": {
+    "formal": "Dear {buyer_name},\n\nAn amount of Rs {amount} is outstanding against invoice(s) {invoice_numbers} dated {dates}. Under Section 15 of MSMED Act, payment became due in {due_days} days and is now overdue by {days_overdue} days. Under Section 16, compound interest at {rate}% per annum is payable, amounting to Rs {interest}.\n\nPlease remit total Rs {total} (principal Rs {principal} + interest Rs {interest}) within 7 days to avoid escalation to MSEFC.\n\nRegards,\n{mse_name}",
+    "concise": "Outstanding Rs {principal} + statutory interest Rs {interest} is due under MSMED Act Sections 15-16. Kindly settle Rs {total} within 7 days.",
+    "relationship_preserving": "We value our business relationship. Please clear Rs {total} at the earliest so we can avoid formal proceedings."
+  },
+  "reminder": {
+    "day_7": "Gentle reminder: Payment of Rs {total} remains pending for invoice(s) {invoice_numbers}. Please confirm release date immediately.",
+    "day_15": "Despite prior notice, Rs {total} remains unpaid. We request immediate payment confirmation within 48 hours.",
+    "final": "Final reminder before MSEFC filing: outstanding Rs {total} with statutory interest under Section 16."
+  },
+  "counter_offer": {
+    "accept_partial": "Without prejudice, we can consider settlement at Rs {counter_amount} if paid by {deadline}.",
+    "reject_low": "Your offer of Rs {offer} is not acceptable as it is below principal liability. Revised proposal requested.",
+    "principal_focus": "As a concession, we are willing to waive part interest if full principal Rs {principal} is paid by {deadline}."
+  },
+  "escalation_warning": {
+    "pre_msefc": "If payment is not received by {deadline}, we will file formal reference before MSEFC under Section 18.",
+    "ghosting": "No response has been received. This is a 7-day final opportunity before escalation.",
+    "bad_faith": "Repeated delays without substantive justification will be treated as non-cooperation in UNP."
+  },
+  "settlement_offer": {
+    "lump_sum": "Full and final settlement proposal: Rs {settlement_amount}, payable in one tranche by {date}.",
+    "installment_2": "Settlement proposal: Rs {settlement_amount} in 2 installments as per attached schedule.",
+    "installment_3": "Settlement proposal: Rs {settlement_amount} in 3 installments with default revival clause."
+  },
+  "acceptance": {
+    "standard": "We accept your revised offer of Rs {settlement_amount}, subject to signed settlement agreement and payment timeline.",
+    "with_terms": "Offer accepted subject to default clause, confidentiality, and MSMED governing law terms."
+  },
+  "rejection": {
+    "insufficient": "We are unable to accept this proposal as it does not cover principal dues and timeline risk.",
+    "delayed": "Proposal rejected due to unacceptable payment horizon beyond {max_days} days."
+  },
+  "notice_types": {
+    "demand_notice": "Pre-litigation demand notice",
+    "legal_notice": "Final legal notice",
+    "unp_message": "UNP negotiation communication",
+    "msefc_intimation": "Intimation of intended MSEFC reference"
+  }
+}

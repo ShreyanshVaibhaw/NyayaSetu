@@ -1,0 +1,52 @@
+version: "3.9"
+
+services:
+  postgres:
+    image: postgres:16
+    container_name: nyayasetu-postgres
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_DB: nyayasetu
+      POSTGRES_USER: nyayasetu
+      POSTGRES_PASSWORD: nyayasetu2026
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  ollama:
+    image: ollama/ollama:latest
+    container_name: nyayasetu-ollama
+    ports:
+      - "11434:11434"
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - capabilities: [gpu]
+    volumes:
+      - ollama_data:/root/.ollama
+
+  redis:
+    image: redis:7
+    container_name: nyayasetu-redis
+    ports:
+      - "6379:6379"
+
+  nyayasetu:
+    build: .
+    container_name: nyayasetu-app
+    ports:
+      - "8501:8501"
+    depends_on:
+      - postgres
+      - ollama
+      - redis
+    environment:
+      - OLLAMA_HOST=ollama
+      - OLLAMA_PORT=11434
+      - POSTGRES_URI=postgresql://nyayasetu:nyayasetu2026@postgres:5432/nyayasetu
+      - REDIS_HOST=redis
+
+volumes:
+  postgres_data:
+  ollama_data:

@@ -1,0 +1,18 @@
+{
+  "template": {
+    "title": "MSMED Act Settlement Agreement",
+    "recitals": [
+      "Parties acknowledge prior commercial dealings and delayed payment dispute.",
+      "Parties intend to resolve the dispute amicably without prejudice."
+    ],
+    "required_clauses": [
+      "Settlement amount and payment schedule",
+      "Interest waiver (if any)",
+      "Default and revival clause",
+      "Confidentiality",
+      "Governing law and jurisdiction",
+      "Execution and signatures"
+    ],
+    "governing_law": "MSMED Act, 2006 and Arbitration and Conciliation Act, 1996"
+  }
+}

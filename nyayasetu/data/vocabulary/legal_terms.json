@@ -1,0 +1,9 @@
+{
+  "legal": {
+    "invoice": {"en": "Invoice", "hi": "बीजक"},
+    "demand_notice": {"en": "Demand Notice", "hi": "मांग नोटिस"},
+    "conciliation": {"en": "Conciliation", "hi": "सुलह"},
+    "arbitration": {"en": "Arbitration", "hi": "मध्यस्थता"},
+    "award": {"en": "Award", "hi": "निर्णय"}
+  }
+}

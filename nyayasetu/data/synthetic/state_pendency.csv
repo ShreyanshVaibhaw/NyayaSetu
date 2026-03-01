@@ -1,0 +1,11 @@
+state,total_cases,pending,disposed,recovery_rate,avg_resolution_days,compliance_90_day_pct,disposal_rate
+Maharashtra,14685,8900,5785,72.0,90,74,39.39
+Delhi,9355,5670,3685,74.0,85,80,39.39
+Gujarat,5692,3450,2242,81.0,78,89,39.39
+Tamil Nadu,8629,5230,3399,79.0,75,93,39.39
+Karnataka,6798,4120,2678,77.0,82,84,39.39
+Uttar Pradesh,12540,7600,4940,61.0,125,28,39.39
+Rajasthan,4587,2780,1807,69.0,105,54,39.39
+West Bengal,6418,3890,2528,66.0,100,61,39.39
+Telangana,5115,3100,2015,73.0,88,76,39.39
+Kerala,3630,2200,1430,75.0,84,81,39.39

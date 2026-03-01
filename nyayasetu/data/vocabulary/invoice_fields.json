@@ -1,0 +1,8 @@
+{
+  "invoice_number": ["invoice no", "invoice #", "बीजक संख्या"],
+  "invoice_date": ["invoice date", "date", "बीजक दिनांक"],
+  "buyer_name": ["bill to", "buyer", "खरीदार"],
+  "seller_name": ["sold by", "supplier", "विक्रेता"],
+  "total_amount": ["total", "grand total", "कुल राशि"],
+  "gstin": ["gstin", "gst no", "जीएसटीआईएन"]
+}

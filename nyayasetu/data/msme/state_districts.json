@@ -1,0 +1,362 @@
+[
+  {
+    "state": "Andhra Pradesh",
+    "districts": [
+      {
+        "name": "Vijayawada",
+        "lat": 16.5062,
+        "lon": 80.648
+      }
+    ]
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "districts": [
+      {
+        "name": "Itanagar",
+        "lat": 27.0844,
+        "lon": 93.6053
+      }
+    ]
+  },
+  {
+    "state": "Assam",
+    "districts": [
+      {
+        "name": "Dispur",
+        "lat": 26.1445,
+        "lon": 91.7362
+      }
+    ]
+  },
+  {
+    "state": "Bihar",
+    "districts": [
+      {
+        "name": "Patna",
+        "lat": 25.5941,
+        "lon": 85.1376
+      }
+    ]
+  },
+  {
+    "state": "Chhattisgarh",
+    "districts": [
+      {
+        "name": "Raipur",
+        "lat": 21.2514,
+        "lon": 81.6296
+      }
+    ]
+  },
+  {
+    "state": "Goa",
+    "districts": [
+      {
+        "name": "Panaji",
+        "lat": 15.4909,
+        "lon": 73.8278
+      }
+    ]
+  },
+  {
+    "state": "Gujarat",
+    "districts": [
+      {
+        "name": "Gandhinagar",
+        "lat": 23.2156,
+        "lon": 72.6369
+      }
+    ]
+  },
+  {
+    "state": "Haryana",
+    "districts": [
+      {
+        "name": "Chandigarh",
+        "lat": 30.7333,
+        "lon": 76.7794
+      }
+    ]
+  },
+  {
+    "state": "Himachal Pradesh",
+    "districts": [
+      {
+        "name": "Shimla",
+        "lat": 31.1048,
+        "lon": 77.1734
+      }
+    ]
+  },
+  {
+    "state": "Jharkhand",
+    "districts": [
+      {
+        "name": "Ranchi",
+        "lat": 23.3441,
+        "lon": 85.3096
+      }
+    ]
+  },
+  {
+    "state": "Karnataka",
+    "districts": [
+      {
+        "name": "Bengaluru",
+        "lat": 12.9716,
+        "lon": 77.5946
+      }
+    ]
+  },
+  {
+    "state": "Kerala",
+    "districts": [
+      {
+        "name": "Thiruvananthapuram",
+        "lat": 8.5241,
+        "lon": 76.9366
+      }
+    ]
+  },
+  {
+    "state": "Madhya Pradesh",
+    "districts": [
+      {
+        "name": "Bhopal",
+        "lat": 23.2599,
+        "lon": 77.4126
+      }
+    ]
+  },
+  {
+    "state": "Maharashtra",
+    "districts": [
+      {
+        "name": "Mumbai",
+        "lat": 19.076,
+        "lon": 72.8777
+      }
+    ]
+  },
+  {
+    "state": "Manipur",
+    "districts": [
+      {
+        "name": "Imphal",
+        "lat": 24.817,
+        "lon": 93.9368
+      }
+    ]
+  },
+  {
+    "state": "Meghalaya",
+    "districts": [
+      {
+        "name": "Shillong",
+        "lat": 25.5788,
+        "lon": 91.8933
+      }
+    ]
+  },
+  {
+    "state": "Mizoram",
+    "districts": [
+      {
+        "name": "Aizawl",
+        "lat": 23.7271,
+        "lon": 92.7176
+      }
+    ]
+  },
+  {
+    "state": "Nagaland",
+    "districts": [
+      {
+        "name": "Kohima",
+        "lat": 25.6751,
+        "lon": 94.1086
+      }
+    ]
+  },
+  {
+    "state": "Odisha",
+    "districts": [
+      {
+        "name": "Bhubaneswar",
+        "lat": 20.2961,
+        "lon": 85.8245
+      }
+    ]
+  },
+  {
+    "state": "Punjab",
+    "districts": [
+      {
+        "name": "Chandigarh",
+        "lat": 30.7333,
+        "lon": 76.7794
+      }
+    ]
+  },
+  {
+    "state": "Rajasthan",
+    "districts": [
+      {
+        "name": "Jaipur",
+        "lat": 26.9124,
+        "lon": 75.7873
+      }
+    ]
+  },
+  {
+    "state": "Sikkim",
+    "districts": [
+      {
+        "name": "Gangtok",
+        "lat": 27.3389,
+        "lon": 88.6065
+      }
+    ]
+  },
+  {
+    "state": "Tamil Nadu",
+    "districts": [
+      {
+        "name": "Chennai",
+        "lat": 13.0827,
+        "lon": 80.2707
+      }
+    ]
+  },
+  {
+    "state": "Telangana",
+    "districts": [
+      {
+        "name": "Hyderabad",
+        "lat": 17.385,
+        "lon": 78.4867
+      }
+    ]
+  },
+  {
+    "state": "Tripura",
+    "districts": [
+      {
+        "name": "Agartala",
+        "lat": 23.8315,
+        "lon": 91.2868
+      }
+    ]
+  },
+  {
+    "state": "Uttar Pradesh",
+    "districts": [
+      {
+        "name": "Lucknow",
+        "lat": 26.8467,
+        "lon": 80.9462
+      }
+    ]
+  },
+  {
+    "state": "Uttarakhand",
+    "districts": [
+      {
+        "name": "Dehradun",
+        "lat": 30.3165,
+        "lon": 78.0322
+      }
+    ]
+  },
+  {
+    "state": "West Bengal",
+    "districts": [
+      {
+        "name": "Kolkata",
+        "lat": 22.5726,
+        "lon": 88.3639
+      }
+    ]
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "districts": [
+      {
+        "name": "Port Blair",
+        "lat": 11.6234,
+        "lon": 92.7265
+      }
+    ]
+  },
+  {
+    "state": "Chandigarh",
+    "districts": [
+      {
+        "name": "Chandigarh",
+        "lat": 30.7333,
+        "lon": 76.7794
+      }
+    ]
+  },
+  {
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "districts": [
+      {
+        "name": "Daman",
+        "lat": 20.3974,
+        "lon": 72.8328
+      }
+    ]
+  },
+  {
+    "state": "Delhi",
+    "districts": [
+      {
+        "name": "New Delhi",
+        "lat": 28.6139,
+        "lon": 77.209
+      }
+    ]
+  },
+  {
+    "state": "Jammu and Kashmir",
+    "districts": [
+      {
+        "name": "Srinagar",
+        "lat": 34.0837,
+        "lon": 74.7973
+      }
+    ]
+  },
+  {
+    "state": "Ladakh",
+    "districts": [
+      {
+        "name": "Leh",
+        "lat": 34.1526,
+        "lon": 77.5771
+      }
+    ]
+  },
+  {
+    "state": "Lakshadweep",
+    "districts": [
+      {
+        "name": "Kavaratti",
+        "lat": 10.5667,
+        "lon": 72.6417
+      }
+    ]
+  },
+  {
+    "state": "Puducherry",
+    "districts": [
+      {
+        "name": "Puducherry",
+        "lat": 11.9416,
+        "lon": 79.8083
+      }
+    ]
+  }
+]

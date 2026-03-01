@@ -1,0 +1,290 @@
+[
+  {
+    "state": "Andhra Pradesh",
+    "msefc_established": true,
+    "cases_pending": 1073,
+    "avg_resolution_days": 87,
+    "address": "MSME DI / DIC Office, Vijayawada",
+    "helpline": "1800-102-1001"
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "msefc_established": true,
+    "cases_pending": 1246,
+    "avg_resolution_days": 94,
+    "address": "MSME DI / DIC Office, Itanagar",
+    "helpline": "1800-102-1002"
+  },
+  {
+    "state": "Assam",
+    "msefc_established": true,
+    "cases_pending": 1419,
+    "avg_resolution_days": 101,
+    "address": "MSME DI / DIC Office, Dispur",
+    "helpline": "1800-102-1003"
+  },
+  {
+    "state": "Bihar",
+    "msefc_established": true,
+    "cases_pending": 1592,
+    "avg_resolution_days": 108,
+    "address": "MSME DI / DIC Office, Patna",
+    "helpline": "1800-102-1004"
+  },
+  {
+    "state": "Chhattisgarh",
+    "msefc_established": true,
+    "cases_pending": 1765,
+    "avg_resolution_days": 115,
+    "address": "MSME DI / DIC Office, Raipur",
+    "helpline": "1800-102-1005"
+  },
+  {
+    "state": "Goa",
+    "msefc_established": true,
+    "cases_pending": 1938,
+    "avg_resolution_days": 122,
+    "address": "MSME DI / DIC Office, Panaji",
+    "helpline": "1800-102-1006"
+  },
+  {
+    "state": "Gujarat",
+    "msefc_established": true,
+    "cases_pending": 3450,
+    "avg_resolution_days": 78,
+    "address": "MSME DI / DIC Office, Gandhinagar",
+    "helpline": "1800-102-1007"
+  },
+  {
+    "state": "Haryana",
+    "msefc_established": true,
+    "cases_pending": 2284,
+    "avg_resolution_days": 91,
+    "address": "MSME DI / DIC Office, Chandigarh",
+    "helpline": "1800-102-1008"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "msefc_established": true,
+    "cases_pending": 2457,
+    "avg_resolution_days": 98,
+    "address": "MSME DI / DIC Office, Shimla",
+    "helpline": "1800-102-1009"
+  },
+  {
+    "state": "Jharkhand",
+    "msefc_established": true,
+    "cases_pending": 2630,
+    "avg_resolution_days": 105,
+    "address": "MSME DI / DIC Office, Ranchi",
+    "helpline": "1800-102-1010"
+  },
+  {
+    "state": "Karnataka",
+    "msefc_established": true,
+    "cases_pending": 2803,
+    "avg_resolution_days": 82,
+    "address": "MSME DI / DIC Office, Bengaluru",
+    "helpline": "1800-102-1011"
+  },
+  {
+    "state": "Kerala",
+    "msefc_established": true,
+    "cases_pending": 2976,
+    "avg_resolution_days": 119,
+    "address": "MSME DI / DIC Office, Thiruvananthapuram",
+    "helpline": "1800-102-1012"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "msefc_established": true,
+    "cases_pending": 3149,
+    "avg_resolution_days": 81,
+    "address": "MSME DI / DIC Office, Bhopal",
+    "helpline": "1800-102-1013"
+  },
+  {
+    "state": "Maharashtra",
+    "msefc_established": true,
+    "cases_pending": 8900,
+    "avg_resolution_days": 90,
+    "address": "MSME DI / DIC Office, Mumbai",
+    "helpline": "1800-102-1014"
+  },
+  {
+    "state": "Manipur",
+    "msefc_established": true,
+    "cases_pending": 3495,
+    "avg_resolution_days": 95,
+    "address": "MSME DI / DIC Office, Imphal",
+    "helpline": "1800-102-1015"
+  },
+  {
+    "state": "Meghalaya",
+    "msefc_established": true,
+    "cases_pending": 3668,
+    "avg_resolution_days": 102,
+    "address": "MSME DI / DIC Office, Shillong",
+    "helpline": "1800-102-1016"
+  },
+  {
+    "state": "Mizoram",
+    "msefc_established": true,
+    "cases_pending": 3841,
+    "avg_resolution_days": 109,
+    "address": "MSME DI / DIC Office, Aizawl",
+    "helpline": "1800-102-1017"
+  },
+  {
+    "state": "Nagaland",
+    "msefc_established": true,
+    "cases_pending": 4014,
+    "avg_resolution_days": 116,
+    "address": "MSME DI / DIC Office, Kohima",
+    "helpline": "1800-102-1018"
+  },
+  {
+    "state": "Odisha",
+    "msefc_established": true,
+    "cases_pending": 4187,
+    "avg_resolution_days": 123,
+    "address": "MSME DI / DIC Office, Bhubaneswar",
+    "helpline": "1800-102-1019"
+  },
+  {
+    "state": "Punjab",
+    "msefc_established": true,
+    "cases_pending": 4360,
+    "avg_resolution_days": 85,
+    "address": "MSME DI / DIC Office, Chandigarh",
+    "helpline": "1800-102-1020"
+  },
+  {
+    "state": "Rajasthan",
+    "msefc_established": true,
+    "cases_pending": 4533,
+    "avg_resolution_days": 92,
+    "address": "MSME DI / DIC Office, Jaipur",
+    "helpline": "1800-102-1021"
+  },
+  {
+    "state": "Sikkim",
+    "msefc_established": true,
+    "cases_pending": 906,
+    "avg_resolution_days": 99,
+    "address": "MSME DI / DIC Office, Gangtok",
+    "helpline": "1800-102-1022"
+  },
+  {
+    "state": "Tamil Nadu",
+    "msefc_established": true,
+    "cases_pending": 5230,
+    "avg_resolution_days": 75,
+    "address": "MSME DI / DIC Office, Chennai",
+    "helpline": "1800-102-1023"
+  },
+  {
+    "state": "Telangana",
+    "msefc_established": true,
+    "cases_pending": 1252,
+    "avg_resolution_days": 113,
+    "address": "MSME DI / DIC Office, Hyderabad",
+    "helpline": "1800-102-1024"
+  },
+  {
+    "state": "Tripura",
+    "msefc_established": true,
+    "cases_pending": 1425,
+    "avg_resolution_days": 120,
+    "address": "MSME DI / DIC Office, Agartala",
+    "helpline": "1800-102-1025"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "msefc_established": true,
+    "cases_pending": 7600,
+    "avg_resolution_days": 115,
+    "address": "MSME DI / DIC Office, Lucknow",
+    "helpline": "1800-102-1026"
+  },
+  {
+    "state": "Uttarakhand",
+    "msefc_established": true,
+    "cases_pending": 1771,
+    "avg_resolution_days": 89,
+    "address": "MSME DI / DIC Office, Dehradun",
+    "helpline": "1800-102-1027"
+  },
+  {
+    "state": "West Bengal",
+    "msefc_established": true,
+    "cases_pending": 1944,
+    "avg_resolution_days": 96,
+    "address": "MSME DI / DIC Office, Kolkata",
+    "helpline": "1800-102-1028"
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "msefc_established": true,
+    "cases_pending": 2117,
+    "avg_resolution_days": 103,
+    "address": "MSME DI / DIC Office, Port Blair",
+    "helpline": "1800-102-1029"
+  },
+  {
+    "state": "Chandigarh",
+    "msefc_established": true,
+    "cases_pending": 2290,
+    "avg_resolution_days": 110,
+    "address": "MSME DI / DIC Office, Chandigarh",
+    "helpline": "1800-102-1030"
+  },
+  {
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "msefc_established": true,
+    "cases_pending": 2463,
+    "avg_resolution_days": 117,
+    "address": "MSME DI / DIC Office, Daman",
+    "helpline": "1800-102-1031"
+  },
+  {
+    "state": "Delhi",
+    "msefc_established": true,
+    "cases_pending": 5670,
+    "avg_resolution_days": 85,
+    "address": "MSME DI / DIC Office, New Delhi",
+    "helpline": "1800-102-1032"
+  },
+  {
+    "state": "Jammu and Kashmir",
+    "msefc_established": true,
+    "cases_pending": 2809,
+    "avg_resolution_days": 86,
+    "address": "MSME DI / DIC Office, Srinagar",
+    "helpline": "1800-102-1033"
+  },
+  {
+    "state": "Ladakh",
+    "msefc_established": true,
+    "cases_pending": 2982,
+    "avg_resolution_days": 93,
+    "address": "MSME DI / DIC Office, Leh",
+    "helpline": "1800-102-1034"
+  },
+  {
+    "state": "Lakshadweep",
+    "msefc_established": true,
+    "cases_pending": 3155,
+    "avg_resolution_days": 100,
+    "address": "MSME DI / DIC Office, Kavaratti",
+    "helpline": "1800-102-1035"
+  },
+  {
+    "state": "Puducherry",
+    "msefc_established": true,
+    "cases_pending": 3328,
+    "avg_resolution_days": 107,
+    "address": "MSME DI / DIC Office, Puducherry",
+    "helpline": "1800-102-1036"
+  }
+]

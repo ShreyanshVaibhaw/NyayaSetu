@@ -1,0 +1,12 @@
+[
+  {"code": "10", "name": "Food products", "sector": "Manufacturing"},
+  {"code": "13", "name": "Textiles", "sector": "Manufacturing"},
+  {"code": "20", "name": "Chemicals", "sector": "Manufacturing"},
+  {"code": "25", "name": "Fabricated metal products", "sector": "Manufacturing"},
+  {"code": "29", "name": "Motor vehicles and parts", "sector": "Manufacturing"},
+  {"code": "46", "name": "Wholesale trade", "sector": "Services"},
+  {"code": "52", "name": "Warehousing and support", "sector": "Services"},
+  {"code": "62", "name": "Computer programming", "sector": "Services"},
+  {"code": "69", "name": "Legal and accounting", "sector": "Services"},
+  {"code": "74", "name": "Specialized professional services", "sector": "Services"}
+]

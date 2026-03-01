@@ -1,0 +1,11 @@
+{
+  "section_22_non_disclosure_fine": {
+    "base_fine_inr": 10000,
+    "description": "Penalty for contravention linked to delayed payment disclosure requirements"
+  },
+  "interest_rule": {
+    "formula": "A = P * (1 + ((3 * bank_rate) / 100) / 12)^n",
+    "compounding": "monthly",
+    "statutory_reference": "MSMED Act Section 16"
+  }
+}

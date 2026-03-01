@@ -1,0 +1,501 @@
+buyer_gstin,buyer_name,buyer_type,industry,past_disputes_count,avg_payment_delay_days,total_outstanding_to_mses,gst_compliance_status,risk_score
+01AABCX0000E1ZP,Buyer Entity 000,PSU,Healthcare,2,53,3063014.05,Compliant,23.25
+02AABCX0001E1ZP,Buyer Entity 001,PSU,FMCG,2,67,6547659.2,Compliant,26.75
+03AABCX0002E1ZP,Buyer Entity 002,PSU,FMCG,11,111,10567705.22,Compliant,82.75
+04AABCX0003E1ZP,Buyer Entity 003,PSU,Engineering,5,96,652605.58,Non-Compliant,67.0
+05AABCX0004E1ZP,Buyer Entity 004,LLP,Construction,1,61,12424443.05,Compliant,20.25
+06AABCX0005E1ZP,Buyer Entity 005,Proprietorship,Healthcare,5,116,11119589.16,Compliant,54.0
+07AABCX0006E1ZP,Buyer Entity 006,Private Ltd,Construction,1,30,4768617.99,Compliant,12.5
+08AABCX0007E1ZP,Buyer Entity 007,Private Ltd,Engineering,9,110,1802337.34,Compliant,72.5
+09AABCX0008E1ZP,Buyer Entity 008,Private Ltd,Engineering,1,81,10417289.49,Compliant,25.25
+10AABCX0009E1ZP,Buyer Entity 009,LLP,Engineering,1,88,4911116.05,Non-Compliant,45.0
+11AABCX0010E1ZP,Buyer Entity 010,Proprietorship,FMCG,3,30,13443259.64,Non-Compliant,40.5
+12AABCX0011E1ZP,Buyer Entity 011,Private Ltd,FMCG,3,82,9664426.4,Non-Compliant,53.5
+13AABCX0012E1ZP,Buyer Entity 012,State Govt,Engineering,2,85,6052755.04,Compliant,31.25
+14AABCX0013E1ZP,Buyer Entity 013,State Govt,Construction,3,99,1078075.94,Compliant,39.75
+15AABCX0014E1ZP,Buyer Entity 014,LLP,Retail,2,64,12882997.68,Compliant,26.0
+16AABCX0015E1ZP,Buyer Entity 015,Private Ltd,Engineering,1,79,525082.16,Compliant,24.75
+17AABCX0016E1ZP,Buyer Entity 016,Proprietorship,Healthcare,3,72,4393947.87,Compliant,33.0
+18AABCX0017E1ZP,Buyer Entity 017,Private Ltd,Retail,10,102,505660.6,Compliant,75.5
+19AABCX0018E1ZP,Buyer Entity 018,Proprietorship,FMCG,3,44,1354274.75,Compliant,26.0
+20AABCX0019E1ZP,Buyer Entity 019,State Govt,Engineering,2,61,9517250.31,Compliant,25.25
+21AABCX0020E1ZP,Buyer Entity 020,State Govt,Construction,2,37,649731.64,Compliant,19.25
+22AABCX0021E1ZP,Buyer Entity 021,PSU,Healthcare,1,97,977822.71,Non-Compliant,47.25
+23AABCX0022E1ZP,Buyer Entity 022,State Govt,Healthcare,2,59,4680718.98,Non-Compliant,42.75
+24AABCX0023E1ZP,Buyer Entity 023,Private Ltd,Retail,1,67,8446287.13,Compliant,21.75
+25AABCX0024E1ZP,Buyer Entity 024,Private Ltd,Construction,2,48,8890682.6,Compliant,22.0
+26AABCX0025E1ZP,Buyer Entity 025,Private Ltd,FMCG,1,81,14469814.37,Compliant,25.25
+27AABCX0026E1ZP,Buyer Entity 026,Proprietorship,Retail,3,30,998166.05,Compliant,22.5
+28AABCX0027E1ZP,Buyer Entity 027,State Govt,IT,11,101,5380133.22,Compliant,80.25
+29AABCX0028E1ZP,Buyer Entity 028,PSU,FMCG,1,60,11670343.11,Compliant,20.0
+30AABCX0029E1ZP,Buyer Entity 029,Proprietorship,Engineering,2,37,12185189.39,Compliant,19.25
+31AABCX0030E1ZP,Buyer Entity 030,LLP,Healthcare,3,37,7008320.74,Compliant,24.25
+32AABCX0031E1ZP,Buyer Entity 031,State Govt,Construction,1,45,11224577.13,Non-Compliant,34.25
+33AABCX0032E1ZP,Buyer Entity 032,Proprietorship,Construction,2,82,10964834.71,Compliant,30.5
+34AABCX0033E1ZP,Buyer Entity 033,Proprietorship,FMCG,1,45,11919061.94,Compliant,16.25
+35AABCX0034E1ZP,Buyer Entity 034,Proprietorship,Engineering,1,80,13482217.88,Compliant,25.0
+01AABCX0035E1ZP,Buyer Entity 035,Private Ltd,Retail,3,42,5581952.15,Non-Compliant,43.5
+02AABCX0036E1ZP,Buyer Entity 036,State Govt,IT,1,71,10567492.52,Compliant,22.75
+03AABCX0037E1ZP,Buyer Entity 037,Private Ltd,Retail,3,64,12240384.37,Compliant,31.0
+04AABCX0038E1ZP,Buyer Entity 038,Private Ltd,Retail,2,47,12709626.46,Compliant,21.75
+05AABCX0039E1ZP,Buyer Entity 039,Private Ltd,Retail,3,56,5590935.22,Non-Compliant,47.0
+06AABCX0040E1ZP,Buyer Entity 040,State Govt,IT,1,33,11505785.06,Compliant,13.25
+07AABCX0041E1ZP,Buyer Entity 041,LLP,Retail,3,32,2032401.9,Compliant,23.0
+08AABCX0042E1ZP,Buyer Entity 042,PSU,IT,2,85,7734909.51,Compliant,31.25
+09AABCX0043E1ZP,Buyer Entity 043,State Govt,Retail,3,37,13368066.8,Compliant,24.25
+10AABCX0044E1ZP,Buyer Entity 044,Proprietorship,Engineering,2,75,4143089.33,Compliant,28.75
+11AABCX0045E1ZP,Buyer Entity 045,Proprietorship,Engineering,2,88,8983271.33,Compliant,32.0
+12AABCX0046E1ZP,Buyer Entity 046,State Govt,Healthcare,2,30,14229530.33,Compliant,17.5
+13AABCX0047E1ZP,Buyer Entity 047,State Govt,IT,3,53,9850694.01,Compliant,28.25
+14AABCX0048E1ZP,Buyer Entity 048,Private Ltd,Construction,3,49,5549112.99,Compliant,27.25
+15AABCX0049E1ZP,Buyer Entity 049,Private Ltd,Retail,3,57,7480871.56,Compliant,29.25
+16AABCX0050E1ZP,Buyer Entity 050,Proprietorship,Retail,1,78,9998391.88,Compliant,24.5
+17AABCX0051E1ZP,Buyer Entity 051,Private Ltd,Construction,1,29,7408776.05,Compliant,12.25
+18AABCX0052E1ZP,Buyer Entity 052,State Govt,Healthcare,2,78,13372677.36,Compliant,29.5
+19AABCX0053E1ZP,Buyer Entity 053,Private Ltd,Engineering,2,36,9043144.66,Compliant,19.0
+20AABCX0054E1ZP,Buyer Entity 054,Private Ltd,Construction,8,164,3226066.54,Non-Compliant,98.0
+21AABCX0055E1ZP,Buyer Entity 055,PSU,FMCG,3,66,9283977.95,Non-Compliant,49.5
+22AABCX0056E1ZP,Buyer Entity 056,Private Ltd,Healthcare,3,67,10879938.65,Compliant,31.75
+23AABCX0057E1ZP,Buyer Entity 057,PSU,Engineering,3,63,1906977.29,Compliant,30.75
+24AABCX0058E1ZP,Buyer Entity 058,State Govt,FMCG,3,78,11989656.05,Compliant,34.5
+25AABCX0059E1ZP,Buyer Entity 059,State Govt,FMCG,2,80,1156032.67,Compliant,30.0
+26AABCX0060E1ZP,Buyer Entity 060,Proprietorship,Healthcare,1,39,11467758.0,Non-Compliant,32.75
+27AABCX0061E1ZP,Buyer Entity 061,Private Ltd,Healthcare,1,98,13403957.5,Compliant,29.5
+28AABCX0062E1ZP,Buyer Entity 062,PSU,IT,1,73,1280648.23,Compliant,23.25
+29AABCX0063E1ZP,Buyer Entity 063,State Govt,IT,2,33,4433875.33,Non-Compliant,36.25
+30AABCX0064E1ZP,Buyer Entity 064,State Govt,Construction,1,37,9383868.89,Compliant,14.25
+31AABCX0065E1ZP,Buyer Entity 065,LLP,Healthcare,3,32,432966.39,Compliant,23.0
+32AABCX0066E1ZP,Buyer Entity 066,Private Ltd,Engineering,15,102,2567421.78,Compliant,98.0
+33AABCX0067E1ZP,Buyer Entity 067,Proprietorship,FMCG,3,57,9652210.99,Compliant,29.25
+34AABCX0068E1ZP,Buyer Entity 068,PSU,Healthcare,14,168,6946573.47,Compliant,98.0
+35AABCX0069E1ZP,Buyer Entity 069,State Govt,FMCG,2,80,8662022.0,Non-Compliant,48.0
+01AABCX0070E1ZP,Buyer Entity 070,LLP,FMCG,8,148,7003260.01,Non-Compliant,95.0
+02AABCX0071E1ZP,Buyer Entity 071,State Govt,Construction,3,32,3255705.83,Compliant,23.0
+03AABCX0072E1ZP,Buyer Entity 072,State Govt,Construction,3,68,1472708.35,Compliant,32.0
+04AABCX0073E1ZP,Buyer Entity 073,LLP,Retail,3,39,10247353.88,Compliant,24.75
+05AABCX0074E1ZP,Buyer Entity 074,PSU,FMCG,3,29,2066047.35,Compliant,22.25
+06AABCX0075E1ZP,Buyer Entity 075,Proprietorship,Engineering,7,107,1739774.28,Compliant,61.75
+07AABCX0076E1ZP,Buyer Entity 076,PSU,FMCG,1,93,5650368.7,Compliant,28.25
+08AABCX0077E1ZP,Buyer Entity 077,PSU,Retail,2,70,8346233.52,Non-Compliant,45.5
+09AABCX0078E1ZP,Buyer Entity 078,State Govt,Construction,2,98,1247280.34,Compliant,34.5
+10AABCX0079E1ZP,Buyer Entity 079,LLP,FMCG,2,58,12504308.2,Non-Compliant,42.5
+11AABCX0080E1ZP,Buyer Entity 080,PSU,Engineering,1,25,2986117.93,Compliant,11.25
+12AABCX0081E1ZP,Buyer Entity 081,PSU,Retail,2,50,9384794.18,Non-Compliant,40.5
+13AABCX0082E1ZP,Buyer Entity 082,Private Ltd,Construction,3,80,5985072.91,Compliant,35.0
+14AABCX0083E1ZP,Buyer Entity 083,Private Ltd,FMCG,2,98,9312755.57,Compliant,34.5
+15AABCX0084E1ZP,Buyer Entity 084,PSU,Retail,1,80,4051222.61,Compliant,25.0
+16AABCX0085E1ZP,Buyer Entity 085,Proprietorship,FMCG,2,90,7060287.44,Compliant,32.5
+17AABCX0086E1ZP,Buyer Entity 086,LLP,FMCG,2,63,14340254.56,Compliant,25.75
+18AABCX0087E1ZP,Buyer Entity 087,PSU,Construction,1,45,443616.96,Non-Compliant,34.25
+19AABCX0088E1ZP,Buyer Entity 088,Proprietorship,Retail,2,45,6546012.11,Compliant,21.25
+20AABCX0089E1ZP,Buyer Entity 089,PSU,Construction,3,69,5073233.15,Compliant,32.25
+21AABCX0090E1ZP,Buyer Entity 090,LLP,Healthcare,3,64,6456073.23,Compliant,31.0
+22AABCX0091E1ZP,Buyer Entity 091,State Govt,Engineering,1,33,3821582.99,Compliant,13.25
+23AABCX0092E1ZP,Buyer Entity 092,Proprietorship,Construction,3,54,3947829.14,Compliant,28.5
+24AABCX0093E1ZP,Buyer Entity 093,Proprietorship,IT,9,209,3543780.4,Compliant,97.25
+25AABCX0094E1ZP,Buyer Entity 094,LLP,Engineering,3,29,1643394.33,Compliant,22.25
+26AABCX0095E1ZP,Buyer Entity 095,PSU,Healthcare,3,94,14255161.3,Compliant,38.5
+27AABCX0096E1ZP,Buyer Entity 096,LLP,Retail,6,198,6093986.95,Compliant,79.5
+28AABCX0097E1ZP,Buyer Entity 097,LLP,FMCG,1,29,3680933.14,Compliant,12.25
+29AABCX0098E1ZP,Buyer Entity 098,PSU,Construction,1,61,12376725.33,Compliant,20.25
+30AABCX0099E1ZP,Buyer Entity 099,State Govt,IT,1,74,3718407.95,Compliant,23.5
+31AABCX0100E1ZP,Buyer Entity 100,State Govt,Engineering,3,67,3507980.1,Compliant,31.75
+32AABCX0101E1ZP,Buyer Entity 101,LLP,Engineering,2,37,796830.47,Compliant,19.25
+33AABCX0102E1ZP,Buyer Entity 102,PSU,Retail,1,97,4716615.68,Non-Compliant,47.25
+34AABCX0103E1ZP,Buyer Entity 103,Private Ltd,Retail,2,58,3245884.59,Non-Compliant,42.5
+35AABCX0104E1ZP,Buyer Entity 104,PSU,IT,3,47,3877838.07,Compliant,26.75
+01AABCX0105E1ZP,Buyer Entity 105,PSU,IT,3,62,7052438.16,Compliant,30.5
+02AABCX0106E1ZP,Buyer Entity 106,Private Ltd,Engineering,3,95,371973.74,Compliant,38.75
+03AABCX0107E1ZP,Buyer Entity 107,State Govt,Healthcare,1,33,13507663.08,Compliant,13.25
+04AABCX0108E1ZP,Buyer Entity 108,Proprietorship,Engineering,3,67,14057535.31,Compliant,31.75
+05AABCX0109E1ZP,Buyer Entity 109,PSU,Engineering,12,152,9788104.61,Compliant,98.0
+06AABCX0110E1ZP,Buyer Entity 110,Private Ltd,Healthcare,1,64,1205675.13,Compliant,21.0
+07AABCX0111E1ZP,Buyer Entity 111,LLP,Engineering,3,38,5502612.76,Compliant,24.5
+08AABCX0112E1ZP,Buyer Entity 112,PSU,Engineering,3,38,13112643.35,Non-Compliant,42.5
+09AABCX0113E1ZP,Buyer Entity 113,Proprietorship,IT,1,52,4403639.3,Non-Compliant,36.0
+10AABCX0114E1ZP,Buyer Entity 114,LLP,Retail,2,62,3093850.95,Compliant,25.5
+11AABCX0115E1ZP,Buyer Entity 115,PSU,IT,1,88,13567383.24,Compliant,27.0
+12AABCX0116E1ZP,Buyer Entity 116,LLP,Engineering,15,135,5706636.47,Compliant,98.0
+13AABCX0117E1ZP,Buyer Entity 117,LLP,Healthcare,1,98,14159722.73,Compliant,29.5
+14AABCX0118E1ZP,Buyer Entity 118,Proprietorship,Construction,1,76,8953368.0,Compliant,24.0
+15AABCX0119E1ZP,Buyer Entity 119,Proprietorship,Retail,2,63,10012800.36,Compliant,25.75
+16AABCX0120E1ZP,Buyer Entity 120,LLP,Healthcare,3,34,3630396.62,Compliant,23.5
+17AABCX0121E1ZP,Buyer Entity 121,PSU,Construction,1,59,1305555.97,Compliant,19.75
+18AABCX0122E1ZP,Buyer Entity 122,Proprietorship,IT,2,93,9024100.09,Non-Compliant,51.25
+19AABCX0123E1ZP,Buyer Entity 123,PSU,Healthcare,2,44,977541.79,Compliant,21.0
+20AABCX0124E1ZP,Buyer Entity 124,Proprietorship,IT,2,46,6153871.47,Compliant,21.5
+21AABCX0125E1ZP,Buyer Entity 125,PSU,FMCG,1,44,5705497.54,Compliant,16.0
+22AABCX0126E1ZP,Buyer Entity 126,LLP,FMCG,2,93,14516769.25,Compliant,33.25
+23AABCX0127E1ZP,Buyer Entity 127,LLP,Healthcare,3,66,10008198.44,Compliant,31.5
+24AABCX0128E1ZP,Buyer Entity 128,Proprietorship,Retail,2,64,14783717.57,Compliant,26.0
+25AABCX0129E1ZP,Buyer Entity 129,State Govt,Engineering,3,55,10985628.79,Compliant,28.75
+26AABCX0130E1ZP,Buyer Entity 130,PSU,Retail,3,94,11431318.2,Compliant,38.5
+27AABCX0131E1ZP,Buyer Entity 131,Proprietorship,Construction,1,90,7371514.92,Compliant,27.5
+28AABCX0132E1ZP,Buyer Entity 132,State Govt,Construction,2,41,11237333.3,Compliant,20.25
+29AABCX0133E1ZP,Buyer Entity 133,Private Ltd,Construction,1,37,2880838.04,Compliant,14.25
+30AABCX0134E1ZP,Buyer Entity 134,Private Ltd,Engineering,1,30,3561973.84,Non-Compliant,30.5
+31AABCX0135E1ZP,Buyer Entity 135,LLP,Construction,1,40,10261561.68,Compliant,15.0
+32AABCX0136E1ZP,Buyer Entity 136,Private Ltd,FMCG,2,54,13117349.84,Non-Compliant,41.5
+33AABCX0137E1ZP,Buyer Entity 137,PSU,Healthcare,9,106,8385113.0,Compliant,71.5
+34AABCX0138E1ZP,Buyer Entity 138,PSU,Engineering,6,201,9764702.08,Non-Compliant,98.0
+35AABCX0139E1ZP,Buyer Entity 139,PSU,IT,1,50,4344413.43,Compliant,17.5
+01AABCX0140E1ZP,Buyer Entity 140,Proprietorship,Construction,1,43,13075108.87,Compliant,15.75
+02AABCX0141E1ZP,Buyer Entity 141,State Govt,IT,3,62,2561832.6,Compliant,30.5
+03AABCX0142E1ZP,Buyer Entity 142,Proprietorship,Healthcare,8,215,5785091.75,Non-Compliant,98.0
+04AABCX0143E1ZP,Buyer Entity 143,Private Ltd,Construction,1,63,13589116.67,Compliant,20.75
+05AABCX0144E1ZP,Buyer Entity 144,State Govt,Engineering,2,83,8262185.68,Compliant,30.75
+06AABCX0145E1ZP,Buyer Entity 145,State Govt,Healthcare,1,89,8255438.99,Compliant,27.25
+07AABCX0146E1ZP,Buyer Entity 146,PSU,IT,1,47,3956842.99,Compliant,16.75
+08AABCX0147E1ZP,Buyer Entity 147,Private Ltd,Retail,1,70,11353215.44,Compliant,22.5
+09AABCX0148E1ZP,Buyer Entity 148,State Govt,Engineering,1,64,459477.95,Non-Compliant,39.0
+10AABCX0149E1ZP,Buyer Entity 149,Private Ltd,Healthcare,1,49,11331032.72,Compliant,17.25
+11AABCX0150E1ZP,Buyer Entity 150,Proprietorship,Healthcare,1,65,12971041.42,Compliant,21.25
+12AABCX0151E1ZP,Buyer Entity 151,LLP,Engineering,1,90,368850.81,Compliant,27.5
+13AABCX0152E1ZP,Buyer Entity 152,LLP,Construction,1,93,8579289.54,Non-Compliant,46.25
+14AABCX0153E1ZP,Buyer Entity 153,State Govt,Retail,2,43,1628301.33,Compliant,20.75
+15AABCX0154E1ZP,Buyer Entity 154,PSU,Healthcare,10,202,7832482.46,Compliant,98.0
+16AABCX0155E1ZP,Buyer Entity 155,Proprietorship,Healthcare,3,87,1593391.45,Non-Compliant,54.75
+17AABCX0156E1ZP,Buyer Entity 156,PSU,IT,1,47,764802.12,Non-Compliant,34.75
+18AABCX0157E1ZP,Buyer Entity 157,State Govt,Retail,3,55,12587191.38,Compliant,28.75
+19AABCX0158E1ZP,Buyer Entity 158,State Govt,Healthcare,1,41,1145759.96,Compliant,15.25
+20AABCX0159E1ZP,Buyer Entity 159,Private Ltd,Engineering,2,67,8287998.06,Compliant,26.75
+21AABCX0160E1ZP,Buyer Entity 160,Proprietorship,FMCG,1,39,8320706.27,Compliant,14.75
+22AABCX0161E1ZP,Buyer Entity 161,PSU,Retail,3,51,7880602.23,Compliant,27.75
+23AABCX0162E1ZP,Buyer Entity 162,State Govt,Engineering,3,99,13388692.14,Non-Compliant,57.75
+24AABCX0163E1ZP,Buyer Entity 163,Proprietorship,Healthcare,1,59,1429627.97,Non-Compliant,37.75
+25AABCX0164E1ZP,Buyer Entity 164,Private Ltd,Construction,2,48,5750442.33,Compliant,22.0
+26AABCX0165E1ZP,Buyer Entity 165,State Govt,Retail,1,70,13011754.02,Compliant,22.5
+27AABCX0166E1ZP,Buyer Entity 166,State Govt,Engineering,1,38,4317431.35,Non-Compliant,32.5
+28AABCX0167E1ZP,Buyer Entity 167,Private Ltd,IT,1,86,12102995.7,Compliant,26.5
+29AABCX0168E1ZP,Buyer Entity 168,LLP,Healthcare,1,71,13150665.16,Compliant,22.75
+30AABCX0169E1ZP,Buyer Entity 169,Proprietorship,IT,3,94,14251012.5,Non-Compliant,56.5
+31AABCX0170E1ZP,Buyer Entity 170,Private Ltd,IT,2,29,13874659.44,Compliant,17.25
+32AABCX0171E1ZP,Buyer Entity 171,State Govt,Retail,2,55,12374539.34,Non-Compliant,41.75
+33AABCX0172E1ZP,Buyer Entity 172,LLP,Engineering,1,25,14110526.61,Non-Compliant,29.25
+34AABCX0173E1ZP,Buyer Entity 173,State Govt,FMCG,1,86,13632176.69,Compliant,26.5
+35AABCX0174E1ZP,Buyer Entity 174,LLP,Engineering,1,35,13107985.6,Compliant,13.75
+01AABCX0175E1ZP,Buyer Entity 175,LLP,Retail,2,31,10903099.0,Compliant,17.75
+02AABCX0176E1ZP,Buyer Entity 176,PSU,IT,8,181,6485815.21,Non-Compliant,98.0
+03AABCX0177E1ZP,Buyer Entity 177,Private Ltd,Retail,3,62,9069104.0,Compliant,30.5
+04AABCX0178E1ZP,Buyer Entity 178,LLP,FMCG,1,94,9363302.4,Non-Compliant,46.5
+05AABCX0179E1ZP,Buyer Entity 179,LLP,Engineering,1,71,3473684.93,Compliant,22.75
+06AABCX0180E1ZP,Buyer Entity 180,Proprietorship,Engineering,1,63,7490036.66,Non-Compliant,38.75
+07AABCX0181E1ZP,Buyer Entity 181,Proprietorship,IT,3,60,13400018.85,Compliant,30.0
+08AABCX0182E1ZP,Buyer Entity 182,State Govt,Construction,3,96,9566675.43,Compliant,39.0
+09AABCX0183E1ZP,Buyer Entity 183,Proprietorship,Healthcare,2,76,10120991.91,Non-Compliant,47.0
+10AABCX0184E1ZP,Buyer Entity 184,State Govt,IT,2,79,3688986.39,Compliant,29.75
+11AABCX0185E1ZP,Buyer Entity 185,State Govt,Healthcare,6,97,6854496.95,Compliant,54.25
+12AABCX0186E1ZP,Buyer Entity 186,State Govt,Engineering,1,79,3654503.54,Compliant,24.75
+13AABCX0187E1ZP,Buyer Entity 187,PSU,Retail,3,30,4500277.89,Compliant,22.5
+14AABCX0188E1ZP,Buyer Entity 188,LLP,FMCG,1,40,7036862.37,Compliant,15.0
+15AABCX0189E1ZP,Buyer Entity 189,LLP,Construction,3,66,8947459.75,Compliant,31.5
+16AABCX0190E1ZP,Buyer Entity 190,Private Ltd,Retail,3,70,11435668.75,Compliant,32.5
+17AABCX0191E1ZP,Buyer Entity 191,State Govt,Retail,2,33,8570914.28,Compliant,18.25
+18AABCX0192E1ZP,Buyer Entity 192,PSU,Engineering,3,95,892251.65,Compliant,38.75
+19AABCX0193E1ZP,Buyer Entity 193,State Govt,Construction,5,100,2784372.42,Compliant,50.0
+20AABCX0194E1ZP,Buyer Entity 194,Private Ltd,FMCG,3,44,413545.66,Compliant,26.0
+21AABCX0195E1ZP,Buyer Entity 195,Proprietorship,Retail,3,58,2978942.45,Compliant,29.5
+22AABCX0196E1ZP,Buyer Entity 196,LLP,Retail,3,63,2098226.85,Compliant,30.75
+23AABCX0197E1ZP,Buyer Entity 197,LLP,Retail,2,71,11535854.58,Compliant,27.75
+24AABCX0198E1ZP,Buyer Entity 198,LLP,FMCG,3,30,9469573.19,Compliant,22.5
+25AABCX0199E1ZP,Buyer Entity 199,Proprietorship,Construction,2,77,986021.75,Compliant,29.25
+26AABCX0200E1ZP,Buyer Entity 200,Proprietorship,Healthcare,1,85,11675380.89,Non-Compliant,44.25
+27AABCX0201E1ZP,Buyer Entity 201,PSU,IT,1,50,2588752.74,Compliant,17.5
+28AABCX0202E1ZP,Buyer Entity 202,Private Ltd,Construction,2,77,6397305.66,Compliant,29.25
+29AABCX0203E1ZP,Buyer Entity 203,Private Ltd,IT,3,42,14532224.32,Compliant,25.5
+30AABCX0204E1ZP,Buyer Entity 204,LLP,Engineering,1,56,2662063.25,Compliant,19.0
+31AABCX0205E1ZP,Buyer Entity 205,PSU,Healthcare,1,71,2202530.73,Compliant,22.75
+32AABCX0206E1ZP,Buyer Entity 206,Proprietorship,IT,1,76,3775675.55,Compliant,24.0
+33AABCX0207E1ZP,Buyer Entity 207,PSU,Engineering,2,84,12719200.64,Compliant,31.0
+34AABCX0208E1ZP,Buyer Entity 208,Proprietorship,FMCG,3,93,1461952.35,Compliant,38.25
+35AABCX0209E1ZP,Buyer Entity 209,PSU,Healthcare,1,38,1403583.01,Compliant,14.5
+01AABCX0210E1ZP,Buyer Entity 210,PSU,IT,3,94,13573099.1,Compliant,38.5
+02AABCX0211E1ZP,Buyer Entity 211,PSU,IT,3,79,3566690.74,Compliant,34.75
+03AABCX0212E1ZP,Buyer Entity 212,Private Ltd,IT,1,26,11348185.09,Non-Compliant,29.5
+04AABCX0213E1ZP,Buyer Entity 213,LLP,Engineering,2,62,11985804.72,Compliant,25.5
+05AABCX0214E1ZP,Buyer Entity 214,State Govt,IT,3,99,9821613.31,Compliant,39.75
+06AABCX0215E1ZP,Buyer Entity 215,Private Ltd,FMCG,6,128,1455614.0,Compliant,62.0
+07AABCX0216E1ZP,Buyer Entity 216,Private Ltd,FMCG,2,38,13278265.36,Compliant,19.5
+08AABCX0217E1ZP,Buyer Entity 217,LLP,IT,2,56,3852514.53,Compliant,24.0
+09AABCX0218E1ZP,Buyer Entity 218,State Govt,Retail,3,92,5897658.04,Compliant,38.0
+10AABCX0219E1ZP,Buyer Entity 219,Private Ltd,IT,1,86,3896592.64,Compliant,26.5
+11AABCX0220E1ZP,Buyer Entity 220,State Govt,Healthcare,2,65,8678751.83,Non-Compliant,44.25
+12AABCX0221E1ZP,Buyer Entity 221,State Govt,Healthcare,2,68,1105192.95,Compliant,27.0
+13AABCX0222E1ZP,Buyer Entity 222,PSU,FMCG,2,94,11917922.31,Compliant,33.5
+14AABCX0223E1ZP,Buyer Entity 223,PSU,Engineering,3,43,8491344.5,Compliant,25.75
+15AABCX0224E1ZP,Buyer Entity 224,LLP,Retail,3,90,3893598.36,Compliant,37.5
+16AABCX0225E1ZP,Buyer Entity 225,State Govt,Healthcare,1,90,1063829.06,Compliant,27.5
+17AABCX0226E1ZP,Buyer Entity 226,PSU,Engineering,1,92,3653433.89,Compliant,28.0
+18AABCX0227E1ZP,Buyer Entity 227,State Govt,Construction,2,91,8095768.93,Compliant,32.75
+19AABCX0228E1ZP,Buyer Entity 228,LLP,FMCG,1,47,7737253.76,Compliant,16.75
+20AABCX0229E1ZP,Buyer Entity 229,Proprietorship,Healthcare,2,81,14990467.25,Compliant,30.25
+21AABCX0230E1ZP,Buyer Entity 230,State Govt,Construction,3,87,12160048.94,Compliant,36.75
+22AABCX0231E1ZP,Buyer Entity 231,State Govt,IT,2,64,13872905.09,Compliant,26.0
+23AABCX0232E1ZP,Buyer Entity 232,Proprietorship,Healthcare,2,86,7031284.74,Compliant,31.5
+24AABCX0233E1ZP,Buyer Entity 233,PSU,FMCG,3,33,7029553.29,Compliant,23.25
+25AABCX0234E1ZP,Buyer Entity 234,Proprietorship,FMCG,1,84,3371495.15,Compliant,26.0
+26AABCX0235E1ZP,Buyer Entity 235,Proprietorship,FMCG,3,99,11390623.74,Non-Compliant,57.75
+27AABCX0236E1ZP,Buyer Entity 236,LLP,Engineering,2,67,5255491.41,Compliant,26.75
+28AABCX0237E1ZP,Buyer Entity 237,Private Ltd,FMCG,2,86,8862152.93,Compliant,31.5
+29AABCX0238E1ZP,Buyer Entity 238,LLP,Retail,3,71,14455726.1,Compliant,32.75
+30AABCX0239E1ZP,Buyer Entity 239,State Govt,Retail,3,48,7044538.71,Compliant,27.0
+31AABCX0240E1ZP,Buyer Entity 240,State Govt,Engineering,2,69,9196810.25,Non-Compliant,45.25
+32AABCX0241E1ZP,Buyer Entity 241,PSU,Healthcare,5,137,2992112.5,Compliant,59.25
+33AABCX0242E1ZP,Buyer Entity 242,LLP,Engineering,2,82,12463230.8,Compliant,30.5
+34AABCX0243E1ZP,Buyer Entity 243,LLP,Construction,1,58,11514288.99,Compliant,19.5
+35AABCX0244E1ZP,Buyer Entity 244,State Govt,FMCG,3,88,824261.9,Compliant,37.0
+01AABCX0245E1ZP,Buyer Entity 245,PSU,FMCG,14,105,1900117.2,Compliant,96.25
+02AABCX0246E1ZP,Buyer Entity 246,LLP,Retail,2,38,7666038.81,Compliant,19.5
+03AABCX0247E1ZP,Buyer Entity 247,LLP,Retail,2,96,11820208.59,Compliant,34.0
+04AABCX0248E1ZP,Buyer Entity 248,PSU,Construction,11,122,13964053.24,Compliant,85.5
+05AABCX0249E1ZP,Buyer Entity 249,PSU,Engineering,3,95,8945045.34,Compliant,38.75
+06AABCX0250E1ZP,Buyer Entity 250,LLP,Construction,12,183,2351752.09,Compliant,98.0
+07AABCX0251E1ZP,Buyer Entity 251,State Govt,Retail,2,70,3600128.81,Compliant,27.5
+08AABCX0252E1ZP,Buyer Entity 252,PSU,Engineering,2,25,8202478.75,Compliant,16.25
+09AABCX0253E1ZP,Buyer Entity 253,LLP,Retail,1,90,8004425.4,Compliant,27.5
+10AABCX0254E1ZP,Buyer Entity 254,Private Ltd,Retail,1,41,9917187.79,Non-Compliant,33.25
+11AABCX0255E1ZP,Buyer Entity 255,Private Ltd,FMCG,1,70,1614336.08,Compliant,22.5
+12AABCX0256E1ZP,Buyer Entity 256,Private Ltd,Retail,3,85,5491245.53,Compliant,36.25
+13AABCX0257E1ZP,Buyer Entity 257,Proprietorship,Healthcare,6,105,5877245.4,Compliant,56.25
+14AABCX0258E1ZP,Buyer Entity 258,Proprietorship,Construction,1,46,11748460.64,Compliant,16.5
+15AABCX0259E1ZP,Buyer Entity 259,State Govt,IT,3,69,8229483.06,Compliant,32.25
+16AABCX0260E1ZP,Buyer Entity 260,LLP,Engineering,1,49,5101776.58,Compliant,17.25
+17AABCX0261E1ZP,Buyer Entity 261,State Govt,Construction,2,56,6003922.44,Non-Compliant,42.0
+18AABCX0262E1ZP,Buyer Entity 262,Proprietorship,Engineering,1,52,8945285.64,Compliant,18.0
+19AABCX0263E1ZP,Buyer Entity 263,PSU,Retail,14,130,11938485.7,Compliant,98.0
+20AABCX0264E1ZP,Buyer Entity 264,Private Ltd,Retail,13,92,939490.71,Compliant,88.0
+21AABCX0265E1ZP,Buyer Entity 265,PSU,Engineering,2,78,8306646.71,Compliant,29.5
+22AABCX0266E1ZP,Buyer Entity 266,State Govt,Construction,3,74,8475928.96,Compliant,33.5
+23AABCX0267E1ZP,Buyer Entity 267,Proprietorship,Retail,1,35,8437743.09,Compliant,13.75
+24AABCX0268E1ZP,Buyer Entity 268,LLP,FMCG,2,29,1543525.97,Compliant,17.25
+25AABCX0269E1ZP,Buyer Entity 269,Private Ltd,Engineering,2,61,1752754.36,Compliant,25.25
+26AABCX0270E1ZP,Buyer Entity 270,Private Ltd,Construction,10,201,2378270.48,Non-Compliant,98.0
+27AABCX0271E1ZP,Buyer Entity 271,LLP,Engineering,1,99,10263615.45,Compliant,29.75
+28AABCX0272E1ZP,Buyer Entity 272,Proprietorship,FMCG,2,91,7390929.97,Compliant,32.75
+29AABCX0273E1ZP,Buyer Entity 273,PSU,FMCG,1,52,10393846.03,Compliant,18.0
+30AABCX0274E1ZP,Buyer Entity 274,Private Ltd,FMCG,3,84,9881452.06,Compliant,36.0
+31AABCX0275E1ZP,Buyer Entity 275,State Govt,Construction,7,173,772455.33,Compliant,78.25
+32AABCX0276E1ZP,Buyer Entity 276,PSU,Healthcare,1,86,2732855.61,Compliant,26.5
+33AABCX0277E1ZP,Buyer Entity 277,Proprietorship,Retail,5,106,10072612.88,Non-Compliant,69.5
+34AABCX0278E1ZP,Buyer Entity 278,Private Ltd,Engineering,3,73,9748151.88,Non-Compliant,51.25
+35AABCX0279E1ZP,Buyer Entity 279,PSU,Healthcare,2,95,3334981.46,Compliant,33.75
+01AABCX0280E1ZP,Buyer Entity 280,Proprietorship,IT,3,68,5188756.68,Compliant,32.0
+02AABCX0281E1ZP,Buyer Entity 281,PSU,Engineering,2,45,4584182.75,Compliant,21.25
+03AABCX0282E1ZP,Buyer Entity 282,Private Ltd,IT,2,56,13914932.45,Compliant,24.0
+04AABCX0283E1ZP,Buyer Entity 283,PSU,Retail,10,100,9338031.65,Compliant,75.0
+05AABCX0284E1ZP,Buyer Entity 284,PSU,IT,1,86,3214088.95,Compliant,26.5
+06AABCX0285E1ZP,Buyer Entity 285,PSU,Retail,13,204,1651207.7,Compliant,98.0
+07AABCX0286E1ZP,Buyer Entity 286,LLP,Healthcare,2,40,14644387.56,Compliant,20.0
+08AABCX0287E1ZP,Buyer Entity 287,LLP,Retail,3,94,3544240.14,Compliant,38.5
+09AABCX0288E1ZP,Buyer Entity 288,PSU,Retail,1,38,9915020.66,Compliant,14.5
+10AABCX0289E1ZP,Buyer Entity 289,State Govt,Healthcare,1,49,12851720.89,Compliant,17.25
+11AABCX0290E1ZP,Buyer Entity 290,State Govt,Engineering,2,69,11031605.09,Compliant,27.25
+12AABCX0291E1ZP,Buyer Entity 291,State Govt,Engineering,1,67,3015527.0,Compliant,21.75
+13AABCX0292E1ZP,Buyer Entity 292,State Govt,FMCG,3,92,5918361.66,Compliant,38.0
+14AABCX0293E1ZP,Buyer Entity 293,Private Ltd,Healthcare,1,64,9755009.46,Compliant,21.0
+15AABCX0294E1ZP,Buyer Entity 294,Proprietorship,Healthcare,3,32,5059430.12,Compliant,23.0
+16AABCX0295E1ZP,Buyer Entity 295,Private Ltd,FMCG,1,30,13635436.32,Compliant,12.5
+17AABCX0296E1ZP,Buyer Entity 296,State Govt,Construction,3,82,11974566.27,Compliant,35.5
+18AABCX0297E1ZP,Buyer Entity 297,Private Ltd,Healthcare,1,90,5572340.49,Compliant,27.5
+19AABCX0298E1ZP,Buyer Entity 298,Proprietorship,IT,1,94,10177855.76,Compliant,28.5
+20AABCX0299E1ZP,Buyer Entity 299,Proprietorship,IT,10,156,3051487.98,Compliant,89.0
+21AABCX0300E1ZP,Buyer Entity 300,State Govt,Retail,3,54,10453898.05,Compliant,28.5
+22AABCX0301E1ZP,Buyer Entity 301,Proprietorship,FMCG,1,55,9594861.34,Compliant,18.75
+23AABCX0302E1ZP,Buyer Entity 302,LLP,Engineering,2,96,10458800.58,Non-Compliant,52.0
+24AABCX0303E1ZP,Buyer Entity 303,PSU,FMCG,2,99,2455920.58,Compliant,34.75
+25AABCX0304E1ZP,Buyer Entity 304,PSU,Retail,3,69,7604635.79,Compliant,32.25
+26AABCX0305E1ZP,Buyer Entity 305,Private Ltd,Construction,3,96,5297169.16,Compliant,39.0
+27AABCX0306E1ZP,Buyer Entity 306,PSU,Engineering,3,48,380191.74,Compliant,27.0
+28AABCX0307E1ZP,Buyer Entity 307,Proprietorship,Retail,2,69,4425577.53,Non-Compliant,45.25
+29AABCX0308E1ZP,Buyer Entity 308,LLP,Retail,1,37,9677287.21,Compliant,14.25
+30AABCX0309E1ZP,Buyer Entity 309,Proprietorship,Healthcare,1,93,14121394.51,Compliant,28.25
+31AABCX0310E1ZP,Buyer Entity 310,LLP,Construction,2,38,1856046.68,Non-Compliant,37.5
+32AABCX0311E1ZP,Buyer Entity 311,LLP,IT,1,65,12492636.09,Compliant,21.25
+33AABCX0312E1ZP,Buyer Entity 312,State Govt,Construction,1,93,3189739.55,Non-Compliant,46.25
+34AABCX0313E1ZP,Buyer Entity 313,Private Ltd,Retail,1,92,12488581.97,Compliant,28.0
+35AABCX0314E1ZP,Buyer Entity 314,State Govt,IT,3,78,805236.64,Compliant,34.5
+01AABCX0315E1ZP,Buyer Entity 315,PSU,FMCG,3,79,9163114.21,Non-Compliant,52.75
+02AABCX0316E1ZP,Buyer Entity 316,Proprietorship,IT,3,96,426864.34,Non-Compliant,57.0
+03AABCX0317E1ZP,Buyer Entity 317,State Govt,Engineering,3,31,14759747.12,Compliant,22.75
+04AABCX0318E1ZP,Buyer Entity 318,Proprietorship,Healthcare,2,61,10458443.29,Compliant,25.25
+05AABCX0319E1ZP,Buyer Entity 319,Proprietorship,FMCG,11,161,6207250.05,Compliant,95.25
+06AABCX0320E1ZP,Buyer Entity 320,Proprietorship,Engineering,9,171,6749809.76,Compliant,87.75
+07AABCX0321E1ZP,Buyer Entity 321,Private Ltd,Construction,3,90,12052167.68,Compliant,37.5
+08AABCX0322E1ZP,Buyer Entity 322,State Govt,IT,1,64,3513960.43,Compliant,21.0
+09AABCX0323E1ZP,Buyer Entity 323,Private Ltd,Healthcare,3,71,10252432.27,Compliant,32.75
+10AABCX0324E1ZP,Buyer Entity 324,Proprietorship,Engineering,1,60,13608811.2,Non-Compliant,38.0
+11AABCX0325E1ZP,Buyer Entity 325,LLP,FMCG,2,36,13415952.18,Compliant,19.0
+12AABCX0326E1ZP,Buyer Entity 326,Private Ltd,Engineering,1,47,11307973.24,Compliant,16.75
+13AABCX0327E1ZP,Buyer Entity 327,State Govt,Healthcare,1,54,12219290.67,Compliant,18.5
+14AABCX0328E1ZP,Buyer Entity 328,LLP,Healthcare,2,60,8289972.42,Compliant,25.0
+15AABCX0329E1ZP,Buyer Entity 329,State Govt,Engineering,3,64,9101418.38,Compliant,31.0
+16AABCX0330E1ZP,Buyer Entity 330,Proprietorship,Retail,3,64,677660.02,Non-Compliant,49.0
+17AABCX0331E1ZP,Buyer Entity 331,PSU,Engineering,2,76,3259403.75,Compliant,29.0
+18AABCX0332E1ZP,Buyer Entity 332,Private Ltd,FMCG,1,89,283651.05,Compliant,27.25
+19AABCX0333E1ZP,Buyer Entity 333,Private Ltd,IT,3,75,4394912.6,Compliant,33.75
+20AABCX0334E1ZP,Buyer Entity 334,State Govt,Healthcare,2,29,12679561.83,Compliant,17.25
+21AABCX0335E1ZP,Buyer Entity 335,PSU,FMCG,3,86,12514494.31,Compliant,36.5
+22AABCX0336E1ZP,Buyer Entity 336,Proprietorship,FMCG,2,49,7061805.35,Non-Compliant,40.25
+23AABCX0337E1ZP,Buyer Entity 337,LLP,Healthcare,6,103,13023310.39,Non-Compliant,73.75
+24AABCX0338E1ZP,Buyer Entity 338,Private Ltd,Healthcare,1,54,14688581.59,Compliant,18.5
+25AABCX0339E1ZP,Buyer Entity 339,State Govt,Retail,2,85,5024619.33,Compliant,31.25
+26AABCX0340E1ZP,Buyer Entity 340,Proprietorship,Engineering,1,25,11933545.93,Non-Compliant,29.25
+27AABCX0341E1ZP,Buyer Entity 341,Private Ltd,Engineering,3,94,267862.68,Compliant,38.5
+28AABCX0342E1ZP,Buyer Entity 342,State Govt,IT,2,54,187275.63,Compliant,23.5
+29AABCX0343E1ZP,Buyer Entity 343,PSU,IT,1,95,4039515.66,Compliant,28.75
+30AABCX0344E1ZP,Buyer Entity 344,PSU,IT,1,26,10836873.95,Compliant,11.5
+31AABCX0345E1ZP,Buyer Entity 345,LLP,FMCG,1,28,2736238.08,Compliant,12.0
+32AABCX0346E1ZP,Buyer Entity 346,LLP,Healthcare,3,87,7374766.99,Compliant,36.75
+33AABCX0347E1ZP,Buyer Entity 347,Private Ltd,Engineering,2,79,2430551.02,Compliant,29.75
+34AABCX0348E1ZP,Buyer Entity 348,PSU,Retail,14,94,14952061.93,Non-Compliant,98.0
+35AABCX0349E1ZP,Buyer Entity 349,LLP,Retail,15,144,13124675.37,Compliant,98.0
+01AABCX0350E1ZP,Buyer Entity 350,State Govt,FMCG,2,70,13677276.74,Compliant,27.5
+02AABCX0351E1ZP,Buyer Entity 351,State Govt,Construction,1,48,11743728.91,Compliant,17.0
+03AABCX0352E1ZP,Buyer Entity 352,Private Ltd,FMCG,1,68,11320241.37,Non-Compliant,40.0
+04AABCX0353E1ZP,Buyer Entity 353,State Govt,Retail,2,86,4122070.53,Compliant,31.5
+05AABCX0354E1ZP,Buyer Entity 354,Private Ltd,Construction,1,53,13705100.24,Non-Compliant,36.25
+06AABCX0355E1ZP,Buyer Entity 355,Proprietorship,Engineering,15,181,5196447.88,Compliant,98.0
+07AABCX0356E1ZP,Buyer Entity 356,State Govt,Engineering,1,74,7587639.92,Compliant,23.5
+08AABCX0357E1ZP,Buyer Entity 357,PSU,IT,3,49,2253534.54,Compliant,27.25
+09AABCX0358E1ZP,Buyer Entity 358,PSU,IT,2,95,11120665.54,Compliant,33.75
+10AABCX0359E1ZP,Buyer Entity 359,Proprietorship,Retail,1,74,2403463.13,Compliant,23.5
+11AABCX0360E1ZP,Buyer Entity 360,State Govt,IT,1,85,10749802.37,Compliant,26.25
+12AABCX0361E1ZP,Buyer Entity 361,State Govt,Construction,3,30,4057759.17,Compliant,22.5
+13AABCX0362E1ZP,Buyer Entity 362,LLP,FMCG,3,43,2297091.67,Compliant,25.75
+14AABCX0363E1ZP,Buyer Entity 363,Private Ltd,IT,2,78,6673438.54,Compliant,29.5
+15AABCX0364E1ZP,Buyer Entity 364,State Govt,Construction,1,84,319304.98,Compliant,26.0
+16AABCX0365E1ZP,Buyer Entity 365,PSU,FMCG,3,49,14379641.85,Compliant,27.25
+17AABCX0366E1ZP,Buyer Entity 366,LLP,Healthcare,2,57,10874952.44,Non-Compliant,42.25
+18AABCX0367E1ZP,Buyer Entity 367,PSU,Healthcare,3,88,7437591.12,Compliant,37.0
+19AABCX0368E1ZP,Buyer Entity 368,State Govt,Retail,1,54,5342295.32,Compliant,18.5
+20AABCX0369E1ZP,Buyer Entity 369,PSU,Healthcare,1,62,3040066.85,Compliant,20.5
+21AABCX0370E1ZP,Buyer Entity 370,LLP,Construction,1,82,13511933.67,Non-Compliant,43.5
+22AABCX0371E1ZP,Buyer Entity 371,LLP,Healthcare,1,85,3303942.54,Compliant,26.25
+23AABCX0372E1ZP,Buyer Entity 372,Private Ltd,Engineering,2,90,7523806.38,Non-Compliant,50.5
+24AABCX0373E1ZP,Buyer Entity 373,Proprietorship,FMCG,3,33,14143857.75,Non-Compliant,41.25
+25AABCX0374E1ZP,Buyer Entity 374,State Govt,FMCG,1,53,1155590.06,Compliant,18.25
+26AABCX0375E1ZP,Buyer Entity 375,Private Ltd,FMCG,15,195,8723994.08,Compliant,98.0
+27AABCX0376E1ZP,Buyer Entity 376,PSU,Engineering,3,36,11754402.61,Compliant,24.0
+28AABCX0377E1ZP,Buyer Entity 377,State Govt,Retail,1,95,1786950.58,Compliant,28.75
+29AABCX0378E1ZP,Buyer Entity 378,State Govt,IT,2,74,12010372.39,Compliant,28.5
+30AABCX0379E1ZP,Buyer Entity 379,LLP,IT,3,54,6429109.66,Non-Compliant,46.5
+31AABCX0380E1ZP,Buyer Entity 380,PSU,IT,2,39,8153405.15,Compliant,19.75
+32AABCX0381E1ZP,Buyer Entity 381,State Govt,IT,1,83,6800987.09,Non-Compliant,43.75
+33AABCX0382E1ZP,Buyer Entity 382,Proprietorship,Healthcare,3,56,6147215.94,Non-Compliant,47.0
+34AABCX0383E1ZP,Buyer Entity 383,LLP,Construction,1,69,3891779.96,Compliant,22.25
+35AABCX0384E1ZP,Buyer Entity 384,State Govt,Construction,2,99,4331994.96,Compliant,34.75
+01AABCX0385E1ZP,Buyer Entity 385,State Govt,Healthcare,2,33,8667406.37,Compliant,18.25
+02AABCX0386E1ZP,Buyer Entity 386,Proprietorship,Retail,1,45,14973981.7,Compliant,16.25
+03AABCX0387E1ZP,Buyer Entity 387,LLP,Engineering,3,53,10336378.4,Compliant,28.25
+04AABCX0388E1ZP,Buyer Entity 388,LLP,Healthcare,2,74,2574640.53,Non-Compliant,46.5
+05AABCX0389E1ZP,Buyer Entity 389,State Govt,Engineering,2,46,1949223.31,Non-Compliant,39.5
+06AABCX0390E1ZP,Buyer Entity 390,State Govt,FMCG,1,54,4925840.34,Compliant,18.5
+07AABCX0391E1ZP,Buyer Entity 391,Private Ltd,Retail,2,77,6006249.78,Compliant,29.25
+08AABCX0392E1ZP,Buyer Entity 392,State Govt,IT,1,76,13870609.91,Non-Compliant,42.0
+09AABCX0393E1ZP,Buyer Entity 393,LLP,Retail,1,79,6293183.27,Non-Compliant,42.75
+10AABCX0394E1ZP,Buyer Entity 394,LLP,Healthcare,2,85,13874628.52,Non-Compliant,49.25
+11AABCX0395E1ZP,Buyer Entity 395,LLP,Construction,1,97,9125654.83,Compliant,29.25
+12AABCX0396E1ZP,Buyer Entity 396,PSU,IT,3,42,6959474.08,Non-Compliant,43.5
+13AABCX0397E1ZP,Buyer Entity 397,LLP,Engineering,2,47,9119110.4,Compliant,21.75
+14AABCX0398E1ZP,Buyer Entity 398,State Govt,Engineering,2,79,1241235.48,Non-Compliant,47.75
+15AABCX0399E1ZP,Buyer Entity 399,State Govt,FMCG,2,65,3084844.64,Compliant,26.25
+16AABCX0400E1ZP,Buyer Entity 400,Private Ltd,Retail,3,39,14131848.69,Compliant,24.75
+17AABCX0401E1ZP,Buyer Entity 401,PSU,Construction,9,174,12128583.58,Non-Compliant,98.0
+18AABCX0402E1ZP,Buyer Entity 402,Private Ltd,Engineering,1,72,8058929.71,Non-Compliant,41.0
+19AABCX0403E1ZP,Buyer Entity 403,LLP,Healthcare,2,27,1767951.53,Compliant,16.75
+20AABCX0404E1ZP,Buyer Entity 404,State Govt,Healthcare,3,62,9889996.14,Compliant,30.5
+21AABCX0405E1ZP,Buyer Entity 405,PSU,FMCG,3,48,2240884.08,Compliant,27.0
+22AABCX0406E1ZP,Buyer Entity 406,State Govt,Retail,2,84,869331.1,Compliant,31.0
+23AABCX0407E1ZP,Buyer Entity 407,Proprietorship,Engineering,8,103,14789975.43,Compliant,65.75
+24AABCX0408E1ZP,Buyer Entity 408,State Govt,FMCG,3,73,8926372.13,Non-Compliant,51.25
+25AABCX0409E1ZP,Buyer Entity 409,State Govt,FMCG,1,52,2537749.16,Compliant,18.0
+26AABCX0410E1ZP,Buyer Entity 410,State Govt,Engineering,1,83,9798703.04,Compliant,25.75
+27AABCX0411E1ZP,Buyer Entity 411,LLP,IT,2,68,10450318.88,Non-Compliant,45.0
+28AABCX0412E1ZP,Buyer Entity 412,LLP,Engineering,2,40,2816098.42,Compliant,20.0
+29AABCX0413E1ZP,Buyer Entity 413,Proprietorship,FMCG,3,28,7169038.82,Compliant,22.0
+30AABCX0414E1ZP,Buyer Entity 414,LLP,Retail,2,67,4063259.67,Non-Compliant,44.75
+31AABCX0415E1ZP,Buyer Entity 415,PSU,IT,3,41,3633471.59,Compliant,25.25
+32AABCX0416E1ZP,Buyer Entity 416,LLP,Retail,1,85,8541836.21,Non-Compliant,44.25
+33AABCX0417E1ZP,Buyer Entity 417,Proprietorship,FMCG,2,72,7419195.1,Compliant,28.0
+34AABCX0418E1ZP,Buyer Entity 418,PSU,FMCG,2,62,7999646.47,Compliant,25.5
+35AABCX0419E1ZP,Buyer Entity 419,Private Ltd,Retail,3,86,1680561.76,Compliant,36.5
+01AABCX0420E1ZP,Buyer Entity 420,LLP,Retail,3,66,3706622.9,Compliant,31.5
+02AABCX0421E1ZP,Buyer Entity 421,PSU,Retail,1,83,9264845.53,Compliant,25.75
+03AABCX0422E1ZP,Buyer Entity 422,LLP,IT,1,33,10186296.23,Compliant,13.25
+04AABCX0423E1ZP,Buyer Entity 423,PSU,IT,2,63,7823359.78,Compliant,25.75
+05AABCX0424E1ZP,Buyer Entity 424,LLP,Engineering,3,80,14464140.65,Compliant,35.0
+06AABCX0425E1ZP,Buyer Entity 425,LLP,Engineering,2,38,14224452.1,Compliant,19.5
+07AABCX0426E1ZP,Buyer Entity 426,PSU,FMCG,3,78,3100143.69,Compliant,34.5
+08AABCX0427E1ZP,Buyer Entity 427,Proprietorship,Healthcare,5,201,11494991.9,Compliant,75.25
+09AABCX0428E1ZP,Buyer Entity 428,Proprietorship,Engineering,7,191,11512526.04,Non-Compliant,98.0
+10AABCX0429E1ZP,Buyer Entity 429,LLP,IT,14,105,12939378.67,Compliant,96.25
+11AABCX0430E1ZP,Buyer Entity 430,Private Ltd,Construction,3,66,5289316.75,Compliant,31.5
+12AABCX0431E1ZP,Buyer Entity 431,LLP,Construction,1,71,3306768.01,Compliant,22.75
+13AABCX0432E1ZP,Buyer Entity 432,Private Ltd,Healthcare,9,124,5337545.66,Compliant,76.0
+14AABCX0433E1ZP,Buyer Entity 433,PSU,Engineering,3,61,1188237.16,Compliant,30.25
+15AABCX0434E1ZP,Buyer Entity 434,PSU,FMCG,2,95,3232964.46,Compliant,33.75
+16AABCX0435E1ZP,Buyer Entity 435,Private Ltd,FMCG,1,52,14723714.07,Compliant,18.0
+17AABCX0436E1ZP,Buyer Entity 436,Proprietorship,IT,1,62,4774923.7,Compliant,20.5
+18AABCX0437E1ZP,Buyer Entity 437,State Govt,FMCG,3,74,1872034.79,Compliant,33.5
+19AABCX0438E1ZP,Buyer Entity 438,State Govt,Retail,3,41,10136250.26,Non-Compliant,43.25
+20AABCX0439E1ZP,Buyer Entity 439,State Govt,FMCG,3,87,660440.81,Compliant,36.75
+21AABCX0440E1ZP,Buyer Entity 440,State Govt,Healthcare,2,62,11433459.32,Compliant,25.5
+22AABCX0441E1ZP,Buyer Entity 441,State Govt,Retail,2,63,1466566.95,Compliant,25.75
+23AABCX0442E1ZP,Buyer Entity 442,Private Ltd,IT,3,51,8136415.25,Compliant,27.75
+24AABCX0443E1ZP,Buyer Entity 443,State Govt,Engineering,2,51,8842462.03,Non-Compliant,40.75
+25AABCX0444E1ZP,Buyer Entity 444,PSU,Construction,13,196,2876391.85,Compliant,98.0
+26AABCX0445E1ZP,Buyer Entity 445,Proprietorship,Construction,3,95,13829106.76,Non-Compliant,56.75
+27AABCX0446E1ZP,Buyer Entity 446,PSU,Construction,1,58,11011482.86,Non-Compliant,37.5
+28AABCX0447E1ZP,Buyer Entity 447,Private Ltd,Engineering,3,64,12463123.62,Compliant,31.0
+29AABCX0448E1ZP,Buyer Entity 448,Proprietorship,IT,1,74,8134531.82,Non-Compliant,41.5
+30AABCX0449E1ZP,Buyer Entity 449,Private Ltd,IT,2,82,8033928.43,Non-Compliant,48.5
+31AABCX0450E1ZP,Buyer Entity 450,Private Ltd,IT,1,56,9835161.56,Compliant,19.0
+32AABCX0451E1ZP,Buyer Entity 451,State Govt,IT,3,90,1130380.25,Compliant,37.5
+33AABCX0452E1ZP,Buyer Entity 452,PSU,IT,3,99,321069.22,Compliant,39.75
+34AABCX0453E1ZP,Buyer Entity 453,Private Ltd,FMCG,3,33,3318744.3,Compliant,23.25
+35AABCX0454E1ZP,Buyer Entity 454,LLP,Engineering,3,70,13318066.3,Non-Compliant,50.5
+01AABCX0455E1ZP,Buyer Entity 455,Proprietorship,Engineering,3,43,6716079.07,Non-Compliant,43.75
+02AABCX0456E1ZP,Buyer Entity 456,PSU,Retail,2,80,9623548.17,Non-Compliant,48.0
+03AABCX0457E1ZP,Buyer Entity 457,Proprietorship,Engineering,11,174,4413632.07,Compliant,98.0
+04AABCX0458E1ZP,Buyer Entity 458,LLP,Retail,2,84,9025825.83,Compliant,31.0
+05AABCX0459E1ZP,Buyer Entity 459,PSU,Construction,2,80,12398940.25,Compliant,30.0
+06AABCX0460E1ZP,Buyer Entity 460,State Govt,Engineering,13,148,4210530.51,Compliant,98.0
+07AABCX0461E1ZP,Buyer Entity 461,LLP,Engineering,2,95,13048574.43,Compliant,33.75
+08AABCX0462E1ZP,Buyer Entity 462,PSU,IT,1,96,8644814.82,Compliant,29.0
+09AABCX0463E1ZP,Buyer Entity 463,Proprietorship,Engineering,2,43,11468657.63,Non-Compliant,38.75
+10AABCX0464E1ZP,Buyer Entity 464,PSU,Engineering,1,41,12306133.99,Compliant,15.25
+11AABCX0465E1ZP,Buyer Entity 465,LLP,FMCG,2,25,1198564.91,Compliant,16.25
+12AABCX0466E1ZP,Buyer Entity 466,LLP,Construction,3,43,7410062.67,Non-Compliant,43.75
+13AABCX0467E1ZP,Buyer Entity 467,Proprietorship,Healthcare,1,91,10474330.2,Compliant,27.75
+14AABCX0468E1ZP,Buyer Entity 468,LLP,Engineering,2,98,3366154.64,Compliant,34.5
+15AABCX0469E1ZP,Buyer Entity 469,State Govt,Engineering,2,92,14669360.98,Compliant,33.0
+16AABCX0470E1ZP,Buyer Entity 470,Private Ltd,Engineering,2,50,6141025.49,Compliant,22.5
+17AABCX0471E1ZP,Buyer Entity 471,LLP,Engineering,2,63,7024692.89,Compliant,25.75
+18AABCX0472E1ZP,Buyer Entity 472,Private Ltd,Healthcare,11,215,6340324.98,Non-Compliant,98.0
+19AABCX0473E1ZP,Buyer Entity 473,LLP,FMCG,2,71,11467096.18,Compliant,27.75
+20AABCX0474E1ZP,Buyer Entity 474,Private Ltd,FMCG,3,42,10516134.22,Compliant,25.5
+21AABCX0475E1ZP,Buyer Entity 475,Proprietorship,Retail,1,84,10757466.76,Compliant,26.0
+22AABCX0476E1ZP,Buyer Entity 476,Proprietorship,Retail,3,44,14530447.75,Compliant,26.0
+23AABCX0477E1ZP,Buyer Entity 477,Private Ltd,Construction,1,95,14784595.22,Compliant,28.75
+24AABCX0478E1ZP,Buyer Entity 478,PSU,Engineering,2,99,6532265.05,Compliant,34.75
+25AABCX0479E1ZP,Buyer Entity 479,Proprietorship,Retail,3,61,10522817.39,Compliant,30.25
+26AABCX0480E1ZP,Buyer Entity 480,Private Ltd,Engineering,1,54,14569401.25,Non-Compliant,36.5
+27AABCX0481E1ZP,Buyer Entity 481,Proprietorship,Healthcare,3,30,4507311.59,Compliant,22.5
+28AABCX0482E1ZP,Buyer Entity 482,Private Ltd,Engineering,1,78,5543403.52,Compliant,24.5
+29AABCX0483E1ZP,Buyer Entity 483,State Govt,IT,3,70,14073908.03,Compliant,32.5
+30AABCX0484E1ZP,Buyer Entity 484,State Govt,Retail,2,75,11287438.68,Compliant,28.75
+31AABCX0485E1ZP,Buyer Entity 485,PSU,IT,3,35,9111450.6,Compliant,23.75
+32AABCX0486E1ZP,Buyer Entity 486,LLP,Engineering,2,80,2764777.19,Compliant,30.0
+33AABCX0487E1ZP,Buyer Entity 487,LLP,Engineering,3,60,5098405.4,Compliant,30.0
+34AABCX0488E1ZP,Buyer Entity 488,Proprietorship,Retail,1,43,1514472.34,Compliant,15.75
+35AABCX0489E1ZP,Buyer Entity 489,Private Ltd,Retail,1,51,11035274.35,Compliant,17.75
+01AABCX0490E1ZP,Buyer Entity 490,Proprietorship,Retail,1,76,3275930.66,Compliant,24.0
+02AABCX0491E1ZP,Buyer Entity 491,Private Ltd,Construction,1,99,4144523.92,Compliant,29.75
+03AABCX0492E1ZP,Buyer Entity 492,PSU,Construction,1,88,12962623.52,Compliant,27.0
+04AABCX0493E1ZP,Buyer Entity 493,Proprietorship,IT,2,70,8993135.68,Compliant,27.5
+05AABCX0494E1ZP,Buyer Entity 494,PSU,Engineering,3,95,8903154.92,Compliant,38.75
+06AABCX0495E1ZP,Buyer Entity 495,LLP,Engineering,3,70,13420601.67,Compliant,32.5
+07AABCX0496E1ZP,Buyer Entity 496,Private Ltd,IT,1,98,14771683.04,Compliant,29.5
+08AABCX0497E1ZP,Buyer Entity 497,State Govt,Engineering,3,89,11913816.91,Compliant,37.25
+09AABCX0498E1ZP,Buyer Entity 498,LLP,Healthcare,3,47,13828222.39,Compliant,26.75
+10AABCX0499E1ZP,Buyer Entity 499,Proprietorship,Construction,2,34,4138161.94,Compliant,18.5

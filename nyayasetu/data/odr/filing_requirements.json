@@ -1,0 +1,54 @@
+{
+  "complainant_details": [
+    "udyam_number",
+    "enterprise_name",
+    "owner_name",
+    "address",
+    "state",
+    "district",
+    "pincode",
+    "mobile",
+    "email",
+    "gstin",
+    "pan"
+  ],
+  "respondent_details": [
+    "buyer_name",
+    "buyer_type",
+    "address",
+    "state",
+    "district",
+    "gstin",
+    "pan",
+    "contact_person",
+    "contact_email"
+  ],
+  "dispute_details": [
+    "goods_services_description",
+    "total_amount_claimed",
+    "number_of_invoices",
+    "has_written_agreement",
+    "agreed_credit_period"
+  ],
+  "invoice_details_per_invoice": [
+    "invoice_number",
+    "invoice_date",
+    "amount",
+    "delivery_date",
+    "payment_due_date",
+    "amount_outstanding"
+  ],
+  "documents_required": [
+    "udyam_certificate",
+    "invoices",
+    "purchase_orders",
+    "delivery_challans",
+    "correspondence",
+    "bank_statements"
+  ],
+  "relief_sought_options": [
+    "payment_of_outstanding_principal",
+    "payment_of_compound_interest",
+    "costs_of_filing"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "sections": [
+    {
+      "section": "15",
+      "title": "Liability of buyer to make payment",
+      "summary": "Buyer shall make payment to supplier on or before the agreed date. If no agreement, payment is due within 15 days of acceptance. In no case shall agreed credit exceed 45 days from day of acceptance or deemed acceptance.",
+      "key_rules": [
+        "No written agreement means payment within 15 days of acceptance",
+        "Written agreement is valid only up to a maximum 45 days from acceptance",
+        "If buyer does not communicate acceptance or rejection within 15 days of delivery, deemed acceptance applies",
+        "Delayed payment starts immediately after the appointed day"
+      ],
+      "verbatim_text": "Where any supplier supplies any goods or renders any services to any buyer, the buyer shall make payment therefor on or before the date agreed upon between him and the supplier in writing or, where there is no agreement in this behalf, before the appointed day: Provided that in no case the period agreed upon between the supplier and the buyer in writing shall exceed forty-five days from the day of acceptance or the day of deemed acceptance."
+    },
+    {
+      "section": "16",
+      "title": "Date from which and rate at which interest is payable",
+      "summary": "Buyer is liable to pay compound interest with monthly rests at three times the RBI bank rate from the appointed day until actual payment.",
+      "key_rules": [
+        "Interest rate is 3 times RBI bank rate",
+        "Interest is compounded monthly (monthly rests)",
+        "Interest runs from appointed day or agreed day until realisation",
+        "Rate changes are applied by effective date"
+      ],
+      "verbatim_text": "Where any buyer fails to make payment of the amount to the supplier, as required under section 15, the buyer shall, notwithstanding anything contained in any agreement between the buyer and the supplier or in any law for the time being in force, be liable to pay compound interest with monthly rests to the supplier on that amount from the appointed day or, as the case may be, from the date immediately following the date agreed upon, at three times of the bank rate notified by the Reserve Bank."
+    },
+    {
+      "section": "17",
+      "title": "Recovery of amount due",
+      "summary": "Supplier may recover principal and interest due under Sections 15 and 16 from buyer.",
+      "key_rules": [
+        "Claim includes principal and statutory interest",
+        "Supplier can initiate recovery under MSMED mechanism",
+        "Recovery may proceed through reference under Section 18"
+      ],
+      "verbatim_text": "For any goods supplied or services rendered by the supplier, the buyer shall be liable to pay the amount with interest thereon as provided under section 16."
+    },
+    {
+      "section": "18",
+      "title": "Reference to Micro and Small Enterprises Facilitation Council",
+      "summary": "Any party to a dispute may make a reference to MSEFC. Council first conducts conciliation, and if unsuccessful, proceeds to arbitration or refers to an institution for arbitration.",
+      "key_rules": [
+        "Reference can be filed before MSEFC with jurisdiction",
+        "Conciliation is mandatory first step",
+        "On conciliation failure, arbitration follows under Arbitration and Conciliation Act, 1996",
+        "Section 18(5) expects disposal within 90 days"
+      ],
+      "verbatim_text": "(1) Notwithstanding anything contained in any other law for the time being in force, any party to a dispute may, with regard to any amount due under section 17, make a reference to the Micro and Small Enterprises Facilitation Council. (2) On receipt of a reference under sub-section (1), the Council shall either itself conduct conciliation in the matter or seek the assistance of any institution or centre providing alternate dispute resolution services by making a reference to such institution or centre, for conducting conciliation and the provisions of sections 65 to 81 of the Arbitration and Conciliation Act, 1996 shall apply to such dispute as if the conciliation was initiated under Part III of that Act. (3) Where the conciliation initiated under sub-section (2) is not successful and stands terminated without any settlement between the parties, the Council shall either itself take up the dispute for arbitration or refer it to any institution or centre providing alternate dispute resolution services for such arbitration and the provisions of the Arbitration and Conciliation Act, 1996 shall then apply to the disputes as if the arbitration was in pursuance of an arbitration agreement referred to in sub-section (1) of section 7 of that Act. (4) Notwithstanding anything contained in any other law for the time being in force, the Micro and Small Enterprises Facilitation Council or the centre providing alternate dispute resolution services shall have jurisdiction to act as an Arbitrator or Conciliator under this section in a dispute between the supplier located within its jurisdiction and a buyer located anywhere in India. (5) Every reference made under this section shall be decided within a period of ninety days from the date of making such a reference."
+    },
+    {
+      "section": "19",
+      "title": "Application for setting aside decree, award or order",
+      "summary": "No application to set aside MSEFC decree or award is entertained unless buyer deposits 75 percent of award amount.",
+      "key_rules": [
+        "Mandatory 75 percent pre-deposit for challenge",
+        "Court may order part release to supplier during proceedings",
+        "Acts as deterrent against frivolous appeals"
+      ],
+      "verbatim_text": "No application for setting aside any decree, award or other order made either by the Council itself or by any institution or centre providing alternate dispute resolution services to which a reference is made by the Council, shall be entertained by any court unless the appellant (not being a supplier) has deposited with it seventy-five per cent of the amount in terms of the decree, award or, as the case may be, the other order in the manner directed by such court: Provided that pending disposal of the application to set aside the decree, award or order, the court shall order that such percentage of the amount deposited shall be paid to the supplier, as it considers reasonable under the circumstances of the case subject to such conditions as it deems necessary to impose."
+    },
+    {
+      "section": "22",
+      "title": "Requirement to specify unpaid amount with interest in annual accounts",
+      "summary": "Buyers must disclose delayed payment amounts and interest details due to MSE suppliers in annual statements.",
+      "key_rules": [
+        "Disclosure applies when buyer has outstanding dues to MSE supplier",
+        "Includes principal and interest liabilities",
+        "Disclosure obligation supports accountability"
+      ],
+      "verbatim_text": "Where any buyer is required to get his annual accounts audited under any law for the time being in force, such buyer shall furnish the following additional information in his annual statement of accounts, namely: (i) the principal amount and the interest due thereon (to be shown separately) remaining unpaid to any supplier as at the end of each accounting year; (ii) the amount of interest paid by the buyer in terms of section 16, along with the amounts of the payment made to the supplier beyond the appointed day during each accounting year; (iii) the amount of interest due and payable for the period of delay in making payment (which has been paid but beyond the appointed day during the year) but without adding the interest specified under this Act; (iv) the amount of interest accrued and remaining unpaid at the end of each accounting year; and (v) the amount of further interest remaining due and payable even in the succeeding years, until such date when the interest dues as above are actually paid to the small enterprise, for the purpose of disallowance as a deductible expenditure under section 23."
+    },
+    {
+      "section": "23",
+      "title": "Interest not deductible",
+      "summary": "Interest payable under or in accordance with MSMED Act is not deductible under Income Tax Act.",
+      "key_rules": [
+        "Statutory interest is not tax-deductible expenditure",
+        "Strengthens deterrence against delayed payments"
+      ],
+      "verbatim_text": "Notwithstanding anything contained in the Income-tax Act, 1961, the amount of interest payable or paid by any buyer, under or in accordance with the provisions of this Act, shall not, for the purposes of computation of income under the Income-tax Act, 1961, be allowed as deduction."
+    },
+    {
+      "section": "24",
+      "title": "Overriding effect",
+      "summary": "Sections 15 to 23 override anything inconsistent in any other law for the time being in force.",
+      "key_rules": [
+        "MSMED delayed payment framework prevails over inconsistent contracts or laws",
+        "Provides legal primacy to supplier protection provisions"
+      ],
+      "verbatim_text": "The provisions of sections 15 to 23 shall have effect notwithstanding anything inconsistent therewith contained in any other law for the time being in force."
+    }
+  ]
+}
